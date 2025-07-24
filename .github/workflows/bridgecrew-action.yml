@@ -9,7 +9,7 @@ on:
     branches: [ master ]
   pull_request:
     branches: [ master ]
-# another change
+# another change 2
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
    bridgecrew:
